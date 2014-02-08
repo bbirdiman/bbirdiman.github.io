@@ -4,9 +4,8 @@
 
 ### by bowerbird intelligentleman
 
-<p style="text-align:right;text-indent:0;">this essay appeared on 
-<a href="https://medium.com/the-future-of-publishing/495ccfe24a52">
-medium.com</a></p>
+this essay appeared on <a href="https://medium.com/the-future-of-publishing/495ccfe24a52">
+medium.com</a>
 
 
 
