@@ -1,14 +1,8 @@
- markdown considered harmful
+# markdown considered harmful
 
-(or perhaps just a loved but irritating old uncle)
+## (or perhaps just a loved but irritating old uncle)
 
-
-
-by bowerbird intelligentleman
-
-
-
-evidently “medium” articles don’t typically need a table of contents…
+### by bowerbird intelligentleman
 
 
 
@@ -16,7 +10,55 @@ evidently “medium” articles don’t typically need a table of contents…
 
 
 
- preface
+## table of contents
+
+
+ > markdown considered harmful
+ > table of contents
+ > preface
+ > the screed
+ > the ugly
+ > the bad
+ > the good
+ > john macfarlane
+ > fletcher penney
+ > brett terpstra
+ > markdown’s future
+ > a few more things
+ > light-markup
+ > restructured-text
+ > ascii-doc
+ > textile
+ > markdown’s arrival
+ > markdown in public
+ > i.o.s. apps
+ > draftin dot com
+ > editorially
+ > ghost
+ > wordpress
+ > dillinger
+ > simplenote
+ > long-form light-markup
+ > leanpub
+ > scrivener
+ > texts dot app
+ > textastic
+ > zen markup language
+ > summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+## preface
 
 
 ok, first of all, you know that the “considered harmful” expression is an exercise in silly titles, right?, just a bit of humorous hyperbole.
@@ -59,7 +101,7 @@ so, if you’re one of _those_ people, here’s your meaty list of shit, quick!,
 
 
 
- the screed
+## the screed
 
 
 here’s “the good, the bad, and the ugly”, in _reverse_ order, to end on a positive, where i can continue on from that point to embark on a more thoughtful review.
@@ -74,7 +116,7 @@ while the accident-lurkers among you can speed off to seek your next thrill.
 
 
 
- the ugly
+## the ugly
 
 
 for the truly ugly parts of markdown, we’ll need to start at the very outset.
@@ -127,7 +169,7 @@ and that’s the ugliest thing about markdown. the guy that gets all the credit 
 
 
 
- the bad
+## the bad
 
 
 even if it’s “good enough for gruber”, the rest of the world has needs which often go beyond the mere superficial, so classic-markdown is _not_ “enough”.
@@ -194,7 +236,7 @@ it’s a good thing world peace does not hang in the balance. “just documents.
 
 
 
- the good
+## the good
 
 
 now that we’ve done “ugly” and “bad”, we can move on to “the good”. hooray!
@@ -213,7 +255,7 @@ so let’s point our telescope at three stars shining most brightly up in markdo
 
 
 
- john macfarlane
+## john macfarlane
 
 
 “pandoc” -- <http://johnmacfarlane.net/pandoc> -- is a tool that converts between a bunch of text-file-formats and systems, _including_ markdown, so it can be extremely useful, and is one of the few brighter spots in this mix.
@@ -242,7 +284,7 @@ so if you need conversions for other formats for markdown to be viable in your w
 
 
 
- fletcher penney
+## fletcher penney
 
 
 likewise with “multimarkdown composer” as a tool that’s proven it is very valuable.
@@ -275,7 +317,7 @@ and for that development, behold the third star in our markdown firmament.
 
 
 
- brett terpstra
+## brett terpstra
 
 
 the best thing for markdown at this time -- no doubt about it -- is brett terpstra, who created the markdown-live-preview app for mac desktops that is called “marked”.
@@ -362,7 +404,7 @@ but for now, let’s look ahead a little bit.
 
 
 
- markdown’s future
+## markdown’s future
 
 
 so, next, we look to markdown’s future.
@@ -413,7 +455,7 @@ still, their bite is probably no worse than the “considered harmful” bark i�
 
 
 
- a few more things
+## a few more things
 
 
 so let’s talk about a few more things, in terms of how we got to our present-day state with markdown. this will be kind of a history lesson.
@@ -428,7 +470,7 @@ to the contrary, in _many_ ways, i’m a long-time fan of markdown. and i’ll m
 
 
 
- light-markup
+## light-markup
 
 
 heck, i loved markdown before it _existed._ because markdown is what’s known as “light-markup”.
@@ -451,7 +493,7 @@ so, to repeat, i’m a long-time fan of markdown specifically and also all other
 
 
 
- restructured-text
+## restructured-text
 
 
 “restructured-text” is well-known, since the python community has been using it for a long time as its primary format for documentation.
@@ -468,7 +510,7 @@ so much for the “lightweight” slur.
 
 
 
- ascii-doc
+## ascii-doc
 
 
 “ascii-doc” is another format which has enjoyed wide implementation, even though it is even less well-known than “restructured-text”.
@@ -495,7 +537,7 @@ for instance, ascii-doc was adopted by many in the o’reilly camp nowadays, and
 
 
 
- textile
+## textile
 
 
 among other tech kids, “textile” was often one of their first exposures to any form of light-markup, and thus it initially enjoyed good prominence, especially when it was fairly newish.
@@ -514,7 +556,7 @@ despite the numerous other players -- which could also include all of the wiki-m
 
 
 
- markdown’s arrival
+## markdown’s arrival
 
 
 but then markdown rode into town.
@@ -549,7 +591,7 @@ the fact that the techies now prefer predominately to use light-markup is quite 
 
 
 
- markdown in public
+## markdown in public
 
 
 and it wasn’t just techies focused on handling of their own content, either.
@@ -562,7 +604,7 @@ developers soon realized that it was a benefit for “unsophisticated users” t
 
 
 
- i.o.s. apps
+## i.o.s. apps
 
 
 the most stark place for new uses happens to be the ipad and iphone. literally dozens of i.o.s. apps use markdown these days, thanks to its high profile among developers.
@@ -589,7 +631,7 @@ but it sharpens our attention to look at web-sites that focus on _writing._
 
 
 
- draftin dot com
+## draftin dot com
 
 
 a number of new sites have writing -- and re-writing, version-tracking, editing, collaborative writing, etc. -- as their primary reason for being, and incorporate markdown as well.
@@ -606,7 +648,7 @@ one of the best examples is “draft”:
 
 
 
- editorially
+## editorially
 
 
 markdown is also used at “editorially”, a site coming out of a very long beta, targeted on the collaboration process occurring between writers and editors.
@@ -619,7 +661,7 @@ markdown is also used at “editorially”, a site coming out of a very long bet
 
 
 
- ghost
+## ghost
 
 
 and again, returning to blogs for a bit, one of the most high-profile initiatives in the blogging world today -- “ghost” -- made big noise about using markdown, as one of its marketing messages in a kickstarter campaign that made its goal within a few days, and then went on to raise some $300,000+ by its conclusion.
@@ -634,7 +676,7 @@ and again, returning to blogs for a bit, one of the most high-profile initiative
 
 
 
- wordpress
+## wordpress
 
 
 and i should mention that “wordpress” just this week announced that it is now supporting markdown in its editor. whether or not this is in response to the “ghost” initiative is not clear; it may, or perhaps it’s a coincidence.
@@ -645,7 +687,7 @@ and i should mention that “wordpress” just this week announced that it is no
 
 
 
- dillinger
+## dillinger
 
 
 but even long before “ghost”, markdown was being adopted by web-apps which employ a methodology of cloud-storage, where you control where files are saved.
@@ -664,7 +706,7 @@ like i said, “dillinger” is one of my favorites, of these online editors, bu
 
 
 
- simplenote
+## simplenote
 
 
 but i’ll mention one another important one, however, namely “simplenote”, because it was an early cloud-based note-taking app that used plain-text as its primary format, and it built an excellent _sync_ capability which other similar apps could use as well.
@@ -685,7 +727,7 @@ but i’ll mention one another important one, however, namely “simplenote”, 
 
 
 
- long-form light-markup
+## long-form light-markup
 
 
 now let’s swing back to long-form stuff again, because long-form is my specialized interest.
@@ -708,7 +750,7 @@ in this respect, a long-form document will often resemble a full _web-site_ -- w
 
 
 
- leanpub
+## leanpub
 
 
 web-sites that help writers create long-form are just starting to pop up, in what appears might be a big trend, but there’s one that has been around for a couple years already, and deserves mention.
@@ -733,7 +775,7 @@ and i do commend “leanpub” for creating a platform that concentrates on the 
 
 
 
- scrivener
+## scrivener
 
 
 while we’re on the topic of books, let’s swing back, for just a minute, to the world of offline programs, because a big one in regard to books is scrivener.
@@ -752,7 +794,7 @@ so if you think you’d like a book “project manager” -- which is how the �
 
 
 
- texts dot app
+## texts dot app
 
 
 and as we are talking offline, if only for a brief time, i can mention another few apps that are stand-out, in that they have a considerable book perspective.
@@ -769,7 +811,7 @@ further, it outputs .pdf, ms-word.doc, and even tex, in addition to the expected
 
 
 
- textastic
+## textastic
 
 
 the other is called “textastic”. there’s no p.c. version, but there are versions for iphone, ipad, and the mac. this is a programmer’s editor, with syntax-coloring -- yes, the colors are applied to markdown syntax -- but it’s handy as it syncs to either dropbox or icloud.
@@ -784,7 +826,7 @@ one more section here, and then we’re all done.
 
 
 
- zen markup language
+## zen markup language
 
 
 i, too, have developed a system for long-form texts, one that’s firmly grounded in a light-markup format that’s called “zen markup language”, z.m.l. for short.
@@ -803,7 +845,7 @@ perhaps most significantly, from the standpoint of this “considered harmful”
 
 
 
- summary
+## summary
 
 
 in conclusion, let’s review the problems with markdown.
