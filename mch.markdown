@@ -39,7 +39,7 @@ so if you’ve somehow learned to ignore garbage strewn about your living-room, 
 
 so just walk away now, while you can, so i don’t have to ridicule you further.
 
-#i_mean_it_just_walk_away_and_do_it_now
+ _#i/mean/it/just/walk/away/and/do/it/now_
 
 because i love markdown.
 
