@@ -35,7 +35,7 @@
 <a href="#editorially"> editorially </a>
 <a href="#ghost"> ghost </a>
 <a href="#wordpress"> wordpress </a>
-<a href="#<a href=#dillinger>_dillinger_ </a>"> <a href=#dillinger> dillinger  </a> </a>
+<a href="#dillinger"> dillinger </a>
 <a href="#simplenote"> simplenote </a>
 <a href="#long-form_light-markup"> long-form light-markup </a>
 <a href="#leanpub"> leanpub </a>
