@@ -17,6 +17,7 @@ medium.com</a></p>
 ## table of contents
 
 
+<a href="#markdown-considered-harmful"> markdown considered harmful </a><br>
 <a href="#table-of-contents"> table of contents </a><br>
 <a href="#preface"> preface </a><br>
 <a href="#the-screed"> the screed </a><br>
@@ -48,13 +49,6 @@ medium.com</a></p>
 <a href="#textastic"> textastic </a><br>
 <a href="#zen-markup-language"> zen markup language </a><br>
 <a href="#summary"> summary </a><br>
-
-
-
-
-
-
-
 
 
 
