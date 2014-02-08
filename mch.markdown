@@ -12,39 +12,39 @@
 
 ## table of contents
 
+<a href="#markdown_considered_harmful"> markdown considered harmful </a>
+<a href="#table_of_contents"> table of contents </a>
+<a href="#preface"> preface </a>
+<a href="#the_screed"> the screed </a>
+<a href="#the_ugly"> the ugly </a>
+<a href="#the_bad"> the bad </a>
+<a href="#the_good"> the good </a>
+<a href="#john_macfarlane"> john macfarlane </a>
+<a href="#fletcher_penney"> fletcher penney </a>
+<a href="#brett_terpstra"> brett terpstra </a>
+<a href="#markdown’s_future"> markdown’s future </a>
+<a href="#a_few_more_things"> a few more things </a>
+<a href="#light-markup"> light-markup </a>
+<a href="#restructured-text"> restructured-text </a>
+<a href="#ascii-doc"> ascii-doc </a>
+<a href="#textile"> textile </a>
+<a href="#markdown’s_arrival"> markdown’s arrival </a>
+<a href="#markdown_in_public"> markdown in public </a>
+<a href="#i.o.s._apps"> i.o.s. apps </a>
+<a href="#draftin_dot_com"> draftin dot com </a>
+<a href="#editorially"> editorially </a>
+<a href="#ghost"> ghost </a>
+<a href="#wordpress"> wordpress </a>
+<a href="#<a href=#dillinger>_dillinger_ </a>"> <a href=#dillinger> dillinger  </a> </a>
+<a href="#simplenote"> simplenote </a>
+<a href="#long-form_light-markup"> long-form light-markup </a>
+<a href="#leanpub"> leanpub </a>
+<a href="#scrivener"> scrivener </a>
+<a href="#texts_dot_app"> texts dot app </a>
+<a href="#textastic"> textastic </a>
+<a href="#zen_markup_language"> zen markup language </a>
+<a href="#summary"> summary </a>
 
-+ markdown considered harmful
-+ table of contents
-+ preface
-+ the screed
-+ the ugly
-+ the bad
-+ the good
-+ john macfarlane
-+ fletcher penney
-+ brett terpstra
-+ markdown’s future
-+ a few more things
-+ light-markup
-+ restructured-text
-+ ascii-doc
-+ textile
-+ markdown’s arrival
-+ markdown in public
-+ i.o.s. apps
-+ draftin dot com
-+ editorially
-+ ghost
-+ wordpress
-+ <a href=#dillinger> dillinger </a>
-+ simplenote
-+ long-form light-markup
-+ leanpub
-+ scrivener
-+ texts dot app
-+ textastic
-+ zen markup language
-+ summary
 
 
 
