@@ -13,37 +13,56 @@
 ## table of contents
 
 
- > markdown considered harmful
- > table of contents
- > preface
- > the screed
- > the ugly
- > the bad
- > the good
- > john macfarlane
- > fletcher penney
- > brett terpstra
- > markdown’s future
- > a few more things
+ > markdown considered harmful  
+ > table of contents  
+ > preface  
+ > the screed  
+ > the ugly  
+ > the bad  
+ > the good  
+ > john macfarlane  
+ > fletcher penney  
+ > brett terpstra  
+ > markdown’s future  
+ > a few more things  
  > light-markup
+ 
  > restructured-text
+ 
  > ascii-doc
+ 
  > textile
+ 
  > markdown’s arrival
+ 
  > markdown in public
+ 
  > i.o.s. apps
+ 
  > draftin dot com
+ 
  > editorially
+ 
  > ghost
+ 
  > wordpress
+ 
  > dillinger
+ 
  > simplenote
+ 
  > long-form light-markup
+ 
  > leanpub
+ 
  > scrivener
+ 
  > texts dot app
+ 
  > textastic
+ 
  > zen markup language
+ 
  > summary
 
 
