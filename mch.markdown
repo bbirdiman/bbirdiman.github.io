@@ -36,7 +36,7 @@
 + editorially
 + ghost
 + wordpress
-+ dillinger
++ <a href=#dillinger> dillinger </a>
 + simplenote
 + long-form light-markup
 + leanpub
