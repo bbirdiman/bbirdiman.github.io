@@ -4,6 +4,10 @@
 
 ### by bowerbird intelligentleman
 
+<p style="text-align:center;text-indent:0;">
+<a href="https://medium.com/the-future-of-publishing/495ccfe24a52">
+this essay appeared on medium.com</a></p>
+
 
 
 
