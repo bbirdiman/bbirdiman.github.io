@@ -11,36 +11,38 @@
 
 
 ## table of contents
-<a href="#table_of_contents"> table of contents </a><br>
+
+
+<a href="#table-of-contents"> table of contents </a><br>
 <a href="#preface"> preface </a><br>
-<a href="#the_screed"> the screed </a><br>
-<a href="#the_ugly"> the ugly </a><br>
-<a href="#the_bad"> the bad </a><br>
-<a href="#the_good"> the good </a><br>
-<a href="#john_macfarlane"> john macfarlane </a><br>
-<a href="#fletcher_penney"> fletcher penney </a><br>
-<a href="#brett_terpstra"> brett terpstra </a><br>
-<a href="#markdown’s_future"> markdown’s future </a><br>
-<a href="#a_few_more_things"> a few more things </a><br>
+<a href="#the-screed"> the screed </a><br>
+<a href="#the-ugly"> the ugly </a><br>
+<a href="#the-bad"> the bad </a><br>
+<a href="#the-good"> the good </a><br>
+<a href="#john-macfarlane"> john macfarlane </a><br>
+<a href="#fletcher-penney"> fletcher penney </a><br>
+<a href="#brett-terpstra"> brett terpstra </a><br>
+<a href="#markdown’s-future"> markdown’s future </a><br>
+<a href="#a-few-more-things"> a few more things </a><br>
 <a href="#light-markup"> light-markup </a><br>
 <a href="#restructured-text"> restructured-text </a><br>
 <a href="#ascii-doc"> ascii-doc </a><br>
 <a href="#textile"> textile </a><br>
-<a href="#markdown’s_arrival"> markdown’s arrival </a><br>
-<a href="#markdown_in_public"> markdown in public </a><br>
-<a href="#i.o.s._apps"> i.o.s. apps </a><br>
-<a href="#draftin_dot_com"> draftin dot com </a><br>
+<a href="#markdown’s-arrival"> markdown’s arrival </a><br>
+<a href="#markdown-in-public"> markdown in public </a><br>
+<a href="#i.o.s.-apps"> i.o.s. apps </a><br>
+<a href="#draftin-dot-com"> draftin dot com </a><br>
 <a href="#editorially"> editorially </a><br>
 <a href="#ghost"> ghost </a><br>
 <a href="#wordpress"> wordpress </a><br>
 <a href="#dillinger"> dillinger </a><br>
 <a href="#simplenote"> simplenote </a><br>
-<a href="#long-form_light-markup"> long-form light-markup </a><br>
+<a href="#long-form-light-markup"> long-form light-markup </a><br>
 <a href="#leanpub"> leanpub </a><br>
 <a href="#scrivener"> scrivener </a><br>
-<a href="#texts_dot_app"> texts dot app </a><br>
+<a href="#texts-dot-app"> texts dot app </a><br>
 <a href="#textastic"> textastic </a><br>
-<a href="#zen_markup_language"> zen markup language </a><br>
+<a href="#zen-markup-language"> zen markup language </a><br>
 <a href="#summary"> summary </a><br>
 
 
