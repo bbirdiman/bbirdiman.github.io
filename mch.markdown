@@ -11,39 +11,37 @@
 
 
 ## table of contents
-
-<a href="#markdown_considered_harmful"> markdown considered harmful </a>
-<a href="#table_of_contents"> table of contents </a>
-<a href="#preface"> preface </a>
-<a href="#the_screed"> the screed </a>
-<a href="#the_ugly"> the ugly </a>
-<a href="#the_bad"> the bad </a>
-<a href="#the_good"> the good </a>
-<a href="#john_macfarlane"> john macfarlane </a>
-<a href="#fletcher_penney"> fletcher penney </a>
-<a href="#brett_terpstra"> brett terpstra </a>
-<a href="#markdown’s_future"> markdown’s future </a>
-<a href="#a_few_more_things"> a few more things </a>
-<a href="#light-markup"> light-markup </a>
-<a href="#restructured-text"> restructured-text </a>
-<a href="#ascii-doc"> ascii-doc </a>
-<a href="#textile"> textile </a>
-<a href="#markdown’s_arrival"> markdown’s arrival </a>
-<a href="#markdown_in_public"> markdown in public </a>
-<a href="#i.o.s._apps"> i.o.s. apps </a>
-<a href="#draftin_dot_com"> draftin dot com </a>
-<a href="#editorially"> editorially </a>
-<a href="#ghost"> ghost </a>
-<a href="#wordpress"> wordpress </a>
-<a href="#dillinger"> dillinger </a>
-<a href="#simplenote"> simplenote </a>
-<a href="#long-form_light-markup"> long-form light-markup </a>
-<a href="#leanpub"> leanpub </a>
-<a href="#scrivener"> scrivener </a>
-<a href="#texts_dot_app"> texts dot app </a>
-<a href="#textastic"> textastic </a>
-<a href="#zen_markup_language"> zen markup language </a>
-<a href="#summary"> summary </a>
+<a href="#table_of_contents"> table of contents </a><br>
+<a href="#preface"> preface </a><br>
+<a href="#the_screed"> the screed </a><br>
+<a href="#the_ugly"> the ugly </a><br>
+<a href="#the_bad"> the bad </a><br>
+<a href="#the_good"> the good </a><br>
+<a href="#john_macfarlane"> john macfarlane </a><br>
+<a href="#fletcher_penney"> fletcher penney </a><br>
+<a href="#brett_terpstra"> brett terpstra </a><br>
+<a href="#markdown’s_future"> markdown’s future </a><br>
+<a href="#a_few_more_things"> a few more things </a><br>
+<a href="#light-markup"> light-markup </a><br>
+<a href="#restructured-text"> restructured-text </a><br>
+<a href="#ascii-doc"> ascii-doc </a><br>
+<a href="#textile"> textile </a><br>
+<a href="#markdown’s_arrival"> markdown’s arrival </a><br>
+<a href="#markdown_in_public"> markdown in public </a><br>
+<a href="#i.o.s._apps"> i.o.s. apps </a><br>
+<a href="#draftin_dot_com"> draftin dot com </a><br>
+<a href="#editorially"> editorially </a><br>
+<a href="#ghost"> ghost </a><br>
+<a href="#wordpress"> wordpress </a><br>
+<a href="#dillinger"> dillinger </a><br>
+<a href="#simplenote"> simplenote </a><br>
+<a href="#long-form_light-markup"> long-form light-markup </a><br>
+<a href="#leanpub"> leanpub </a><br>
+<a href="#scrivener"> scrivener </a><br>
+<a href="#texts_dot_app"> texts dot app </a><br>
+<a href="#textastic"> textastic </a><br>
+<a href="#zen_markup_language"> zen markup language </a><br>
+<a href="#summary"> summary </a><br>
 
 
 
