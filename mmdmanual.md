@@ -515,7 +515,7 @@ proposals really disrupted the readability of the syntax. I consider myself a
 
 Because there was not a syntax proposal that I felt fit this goal, I was generally opposed to the idea.
 
-Then, Choan C. G√°lvez [proposed][galvez] a brilliantly simple syntax that
+Then, Choan C. Gálvez [proposed][galvez] a brilliantly simple syntax that
 stayed out of the way. By simply appending the attributes to the link
 reference information, which is already removed from the text itself, it
 doesn't disturb the readability.
@@ -1540,7 +1540,7 @@ improving Markdown and MultiMarkdown:
 *	Michel Fortin
 *	Jonathan Weber
 *	Mark Eli Kalderon
-*	Choan C. G√°lvez
+*	Choan C. Gálvez
 *	Dr. Drang
 *	Robert McGonegal
 *	David Green
@@ -1563,7 +1563,7 @@ improving Markdown and MultiMarkdown:
 *	James Howison
 *	Edward Nixon
 *	etherean
-*	√ñzg√ºr G√∂kmen
+*	Özgür Gökmen
 *	Chad Schmidt
 *	Greg (gr)
 *	Ben Jennings
@@ -1573,7 +1573,7 @@ improving Markdown and MultiMarkdown:
 *	Dan Rolander
 *	Duoyi wu
 *	Dan Dascalescu
-*	Ingolf Sch√§fer
+*	Ingolf Schäfer
 *	Chris Bunch
 *	Oblomov
 *	Alex Melhuish
@@ -1692,7 +1692,7 @@ and others I have surely forgotten....
   reference in headers and handling of attributes when links are referenced
   multiple times (thanks to Edward Nixon); fix bug in epigraphs (thanks
   etherean); improve id generation for footnotes - e.g. match behavior of PHP
-  Markdown Extra (thanks to √ñzg√ºr G√∂kmen); fix bug in id generation for ToC
+  Markdown Extra (thanks to Özgür Gökmen); fix bug in id generation for ToC
   for XHTML documents; fix problem with `\ldots` command (thanks to etherean
   and James Howison); fix issue with `&#160;` and tilde character; fix bug
   where footnote special characters were not unescaped (thanks to Chad
