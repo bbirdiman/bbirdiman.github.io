@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <title>
-githubpages-multimarkdown-javascript
+githubpages-multimarkdown-javascript skeleton
 </title>
 <script src=http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js></script>
 </head>
@@ -28,8 +28,10 @@ function domarky(){
 $("#thehtml").html("calling marky...")
 var result=""
 var convertthis=$("#thetext").val()
+convertthis=convertthis.replace(/\\c/g,"ZZZZ")
 $.ajaxSetup({cache:false})
 $.post("http://heckyesmarkdown.com/go/",{domarkdown:1,text:convertthis,},function(result){
+convertthis=convertthis.replace(/ZZZZ/g,"\c")
 $("#thehtml").html(result)
 })
 }</script>
