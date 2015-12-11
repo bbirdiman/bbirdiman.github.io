@@ -39,13 +39,15 @@ dosound()
 function dogetit() {
 theurl="https://raw.githubusercontent.com/bbirdiman/githubblog/master/githubblog2.md"
 //ajax get post
-$.ajaxSetup({cache:false})
-$.ajax({
-url:theurl,
-dataType:'text',
-fail:function(data){$("#searchfield").val(" fail! "); document.title=" fail! "},
-success:function(data){$("#holdme").val(data)}
-})
+//$.ajaxSetup({cache:false})
+//$.ajax({
+//url:theurl,
+//dataType:'text',
+//fail:function(data){$("#searchfield").val(" fail! "); document.title=" fail! "},
+//success:function(data){$("#holdme").val(data)}
+//})
+
+document.title="took out the offending stuff"
 }</script>
 
 <script>
