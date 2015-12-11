@@ -3,17 +3,16 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <script src="https://raw.githubusercontent.com/bbirdiman/bbirdiman.github.io/master/query111.js" type="text/javascript"></script>
-
-
+<script src="https://raw.githubusercontent.com/bbirdiman/bbirdiman.github.io/master/chjj-marked.min.js"></script>
 <title>let's go, with github pages</title>
 <style>
-* {border-sizing:border-box}
-html {margin:0;padding:0;width:97%;height:97%}
-body {background-color:lightblue;width:97%;height:97%margin:0;padding:0;
+* {box-sizing:border-box;margin:0;padding:0;}
+html {margin:0;padding:0;width:99.7%;height:99.7%;border-width:8px;border-style:solid;border-color:black}
+body {background-color:lightblue;width:99.7%;height:99.7%;margin:0;padding:0;
 border-width:3px;border-style:solid;border-color:orange;
 overflow-x:hidden;overflow-y:scroll;-webkit-overflow-scrolling:touch}
+div {}
 p {color:black;text-align:left;font-family:serif}
 h1,h2,h3,h4,h5,h6 {text-align:center;margin:0;padding:0}
 img {width:90%;margin:0;margin-left:10%;padding:0}
@@ -21,14 +20,17 @@ img {width:90%;margin:0;margin-left:10%;padding:0}
 </head>
 <body id=thebody onload=doload()>
 
-<div id=wholepage style=margin:0;padding;0;width:97%;height:97%;border-width:5px;border-style:solid;border-color:red>
+<div id=wholepage style=margin:0;padding;0;width:99.7%;height:99.7%;border-width:5px;border-style:solid;border-color:red>
   
-<div id=messagefield style=margin:0;padding:0;width:97%;height:20px;border-width:2px;border-style:solid;border-color:green>
+<div id=messagefield style=margin:0;padding:0;width:99.7%;height:50px;border-width:2px;border-style:solid;border-color:green>
 </div><!-- end messagefield -->
 
-<div id=holdtextarea style=margin:0;padding:0;width:47%;height:90%;border-width:2px;border-style:solid;border-color:blue>
-<textarea id=holdme style=width:95%;margin:0;padding:20px;height:95%;>holdme
-</textarea>
+<div id=holdtextarea style=position:fixed;left:20px;right:51%;margin:0;padding:0;bottom:50px;top:100px;border-width:2px;border-style:solid;border-color:blue>
+<textarea id=holdme style=width:99.7%;height:99.7%;margin:0;padding:20px;overflow-x:hidden;overflow-y:scroll;-webkit-overflow-scrolling:touch>zml input</textarea>
+</div><!-- end holdtextareea -->
+
+<div id=holdhtmlfield style=position:fixed;right:50px;left:51%;margin:0;padding:0;bottom:50px;top:100px;border-width:2px;border-style:solid;border-color:blue;overflow:hidden>
+<div id=htmlfield style=width:99.7%;height:99.7%;margin:0;padding:20px;background-color:ivory;overflow-x:hidden;overflow-y:scroll;-webkit-overflow-scrolling:touch>html output</section>
 </div><!-- end holdtextareea -->
 
 </div> <!-- end wholepage -->
@@ -48,16 +50,21 @@ $.ajax({
 url:theurl,
 dataType:'text',
 fail:function(data){$("#messagefield").val(" fail! "); document.title=" fail! "},
-success:function(data){$("#holdme").val(data)}
+success:function(data){$("#holdme").val(data);doconvert()}
 })
 }</script>
 
 <script>
 function dosound() {
-var audio = new Audio('http://zenmagiclove.com/simple/moo.mp3');
-audio.play();
+//var audio = new Audio('http://zenmagiclove.com/simple/moo.mp3');
+//audio.play();
 }</script>
 
+<script>
+function doconvert() {
+var grabinput=$("#holdme").val()
+document.getElementById('htmlfield').innerHTML = (marked(grabinput))
+}</script>
 
 </body>
 </html>
