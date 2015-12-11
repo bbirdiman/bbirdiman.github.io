@@ -42,6 +42,18 @@ dosound()
 <script>
 function dogetit() {
 theurl="https://raw.githubusercontent.com/bbirdiman/githubblog/master/githubblog2.md"
+
+theurl="https://raw.githubusercontent.com/bbirdiman/githubblog/master/githubblog2.md"
+//ajax get post
+$.ajaxSetup({cache:false})
+$.ajax({
+url:theurl,
+dataType:'text',
+fail:function(data){$("#searchfield").val(" fail! "); document.title=" fail! "},
+success:function(data){$("#holdme").val(data)}
+})
+
+
 //ajax get post
 //$.ajaxSetup({cache:false})
 //$.ajax({
