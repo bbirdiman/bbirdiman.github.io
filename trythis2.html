@@ -7,7 +7,7 @@
 <script src="https://raw.githubusercontent.com/bbirdiman/bbirdiman.github.io/master/query111.js" type="text/javascript"></script>
 
 
-<title>can't run jquery in github pages?</title>
+<title>let's go, with github pages</title>
 <style>
 * {border-sizing:border-box}
 html {margin:0;padding:0;width:99.8%}
@@ -25,59 +25,41 @@ border-width:2px;border-style:solid;border-color:gray}
 </head>
 <body id=thebody onload=doload()>
 
-<div style=width:80%;height:500px;border-width:2px;border-style:solid;border-color:blue>
+<div id=wholepage style=margin:0;padding;0;width:99.5%;height:99.5%>
+  
+<div id=messagefield style=margin:0;padding:0;width:99.5%;height:auto;border-width:2px;border-style:solid;border-color:green></div>
+
+<div style=margin:0;padding:0;width:47%;height:98%;border-width:2px;border-style:solid;border-color:blue>
 <textarea id=holdme style=width:95%;margin:0;padding:20px;height:95%;>holdme</textarea>
 </div>
 
+</div> <!-- end wholepage -->
 
 <script>
 function doload() {
-document.title=document.title+" -- "+"hello world"
-dogetit()
+dogettext()
 dosound()
 }</script>
 
-
-
 <script>
-function dogetit() {
-theurl="https://raw.githubusercontent.com/bbirdiman/githubblog/master/githubblog2.md"
-
+function dogettext() {
 theurl="https://raw.githubusercontent.com/bbirdiman/githubblog/master/githubblog2.md"
 //ajax get post
 $.ajaxSetup({cache:false})
 $.ajax({
 url:theurl,
 dataType:'text',
-fail:function(data){$("#searchfield").val(" fail! "); document.title=" fail! "},
+fail:function(data){$("#messagefield").val(" fail! "); document.title=" fail! "},
 success:function(data){$("#holdme").val(data)}
 })
-
-
-//ajax get post
-//$.ajaxSetup({cache:false})
-//$.ajax({
-//url:theurl,
-//dataType:'text',
-//fail:function(data){$("#searchfield").val(" fail! "); document.title=" fail! "},
-//success:function(data){$("#holdme").val(data)}
-//})
-
-document.title=document.title+" -- took out the offending stuff"
-
-
-
-document.getElementById("holdme").innerHTML = "took out the jquery stuff";
 }</script>
 
 <script>
 function dosound() {
 var audio = new Audio('http://zenmagiclove.com/simple/moo.mp3');
 audio.play();
-//
-//let us see if it just loads...
-$("#holdme").val("wait a second, does javascript work?...")
 }</script>
+
 
 </body>
 </html>
