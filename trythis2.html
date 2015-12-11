@@ -3,6 +3,10 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+
+
 <title>can't run jquery in github pages?</title>
 <style>
 * {border-sizing:border-box}
@@ -58,6 +62,7 @@ document.getElementById("holdme").innerHTML = "took out the jquery stuff";
 function dosound() {
 var audio = new Audio('http://zenmagiclove.com/simple/moo.mp3');
 audio.play();
+$("#holdme").val("wait a second, javascript does work...")
 }</script>
 
 </body>
